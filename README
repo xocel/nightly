@@ -1,0 +1,11 @@
+firefox-nightly.pl (120204)
+
+Firefox Nightly/Aurora install & update script for Slackware Linux.
+
+This will download and update to/install the latest version of Firefox
+Nightly/Aurora. The script must be run as root (or sudo).
+
+By default the script is set to Nightly x86_64, you can change to Aurora
+and/or i686 by following the comments in the script. 
+
+Usage: sudo perl firefox-nightly.pl
